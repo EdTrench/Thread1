@@ -1,0 +1,12 @@
+C:\Users\edtrenchard\AppData\Local\Temporary Projects\Thread1\bin\Debug\Thread1.exe.config
+C:\Users\edtrenchard\AppData\Local\Temporary Projects\Thread1\bin\Debug\Thread1.exe
+C:\Users\edtrenchard\AppData\Local\Temporary Projects\Thread1\bin\Debug\Thread1.pdb
+C:\Users\edtrenchard\AppData\Local\Temporary Projects\Thread1\obj\Debug\Thread1.csprojResolveAssemblyReference.cache
+C:\Users\edtrenchard\AppData\Local\Temporary Projects\Thread1\obj\Debug\Thread1.exe
+C:\Users\edtrenchard\AppData\Local\Temporary Projects\Thread1\obj\Debug\Thread1.pdb
+\\asdanbs\users$\edtrenchard\My Documents\Visual Studio 2013\Projects\Thread1\Thread1\bin\Debug\Thread1.exe.config
+\\asdanbs\users$\edtrenchard\My Documents\Visual Studio 2013\Projects\Thread1\Thread1\obj\Debug\Thread1.exe
+\\asdanbs\users$\edtrenchard\My Documents\Visual Studio 2013\Projects\Thread1\Thread1\obj\Debug\Thread1.pdb
+\\asdanbs\users$\edtrenchard\My Documents\Visual Studio 2013\Projects\Thread1\Thread1\bin\Debug\Thread1.exe
+\\asdanbs\users$\edtrenchard\My Documents\Visual Studio 2013\Projects\Thread1\Thread1\bin\Debug\Thread1.pdb
+\\asdanbs\users$\edtrenchard\My Documents\Visual Studio 2013\Projects\Thread1\Thread1\obj\Debug\Thread1.csprojResolveAssemblyReference.cache
